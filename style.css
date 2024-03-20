@@ -72,6 +72,7 @@ button:hover {
     border-radius: 10px;
     margin-left: 10px;
     margin-right: 10px;
+    max-width: 300px;
 }
 
 img {
@@ -85,4 +86,8 @@ img {
 
 .characterGender {
     margin-top: 10px;
+}
+
+.lastLocation {
+    max-width: 90%;
 }
